@@ -41,4 +41,4 @@ This is a repository which contains my Hackintosh EFI config using OpenCore boot
 
 
 # Known Bugs/Issues
-* When booting the Boot loader is kind of laggy
+* When booting the Boot loader is kind of laggy but is fine if you just let it auto boot to macos
