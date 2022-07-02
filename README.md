@@ -1,5 +1,5 @@
 # Introduction
-This is a repository which contains my Hackintosh EFI config using OpenCore bootloader. It's speifically designed for my Dell XPS 15 7590 4K Touch laptop, however may work with other variations of Dell XPS 15 with some minor tweaks and adjustment. It supports MacOS Monterey 12.0.1 and can be upgraded OTA (System Preferences) to 12.3; The current wireless card does support WLAN and Bluetooth, however AirDrop is not supported. MacOS gestures work fine. I don't know about the battery satistics though I can definitely take a look whenever I get the time. Hopefully this helps :)
+This is a repository which contains my Hackintosh EFI config using OpenCore bootloader. It's speifically designed for my Dell XPS 15 7590 4K Touch laptop, however may work with other variations of Dell XPS 15 with some minor tweaks and adjustment. It supports MacOS Monterey 12.0.1 and can be upgraded OTA (System Preferences) to 12.4; The current wireless card does support WLAN and Bluetooth, however AirDrop is not supported. MacOS gestures work fine. I don't know about the battery satistics though I can definitely take a look whenever I get the time. Hopefully this helps :)
 
 
 <img src="https://github.com/1nferious/Dell-XPS-15-7590-MacOS-Monterey--12.0.1--Hackintosh/blob/main/assets/proof.png">
