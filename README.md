@@ -16,6 +16,9 @@ This is a repository which contains my Hackintosh EFI config using OpenCore boot
 * SSD: WD_BLACK:tm: SN750 NVMe:tm: (500 GB)
 * WLAN + Bluetooth: Killer Wireless 1650
 
+##OC Version
+* 0.7.9
+
 ## Software
 * macOS Monterey: `12.0.1` (I later upgraded to Monterey 12.2 through System Preferences)
 
